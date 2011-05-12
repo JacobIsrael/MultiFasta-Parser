@@ -1,1 +1,38 @@
-Hello World
+README
+--------------------------------------------
+Multifasta Parser v. 0.1
+(c) 2008 Jacob Israel Cervantes Luevano
+Langebio Cinvestav, Dept. of Bioinformatics 
+--------------------------------------------
+
+TABLE OF CONTENTS
+I.   INTRODUCTION		
+II.  DOCUMENTATION
+III. CONTACT INFO
+IV.  REPORTING BUGS
+
+Project WebSite: http://www.jacob-israel.com.mx/bio/blog
+
+I. INTRODUCTION
+Multifasta Parser is a new parser for fasta and csfasta files. basically allows you to extract fasta sequences from multifasta file.
+
+II. DOCUMENTATION
+to compile:
+$gmcs multifasta-parser.cs -out:multifasta-parser 
+
+to run:
+$mono multifasta-parser multifasta-file 
+
+III. CONTACT INFO
+Feel free to contact me if you have any comments, suggestions, questions, complaints, whatever.
+
+Jacob Israel Cervantes Luevano
+Langebio Cinvestav, Dept. of Bioinformatics
+Irapuato, Guanajuato México
+
+Email: jacob@jacob-israel.com.mx
+Email: jacobnix@gmail.com
+WebSite: http://www.jacob-israel.com.mx/bio/blog
+
+IV. REPORTING BUGS
+Email me please
